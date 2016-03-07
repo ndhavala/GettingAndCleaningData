@@ -1,4 +1,4 @@
-                                             Sheet1
+                                            
       subject activity timeBodyAccelerometer-mean()-X timeBodyAccelerometer-mean()-Y
   1          1        1                           0.28                          -0.02
  31          1        2                           0.26                          -0.02
